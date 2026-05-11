@@ -21,8 +21,8 @@ keywords: Yuxi Liu, Machine Learning, LLM, DiT, PKU, Mathematics
 lang: en 
 icon: ⚛️ 
 
-url: https://yuxiliu6666.github.io 
-baseurl: "" 
+url: https://yuxiliu6666.github.io
+baseurl: ""
 last_updated: true 
 back_to_top: true 
 
@@ -133,7 +133,7 @@ plugins:
 scholar:
   last_name: [Liu]
   first_name: [Yuxi, Y.]
-
+  
   style: apa
   locale: en
 
