@@ -2,33 +2,44 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Student in Data Science at Peking University.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Center for Machine Learning Research</p>
+    <p>Peking University</p>
+    <p>Beijing, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true 
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # 暂时关闭以防出现模板自带的假新闻
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # 暂时关闭博客
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Yuxi Liu (刘禹希). I am currently a 4th-year Ph.D. student in Data Science at the Center for Machine Learning Research, Peking University (2023-2028), under the supervision of Prof. Kun Yuan. Prior to this, I obtained my B.S. degree in Mathematics from Wuhan University (2019-2023), ranking 2/32 in the Mathematics Base Class.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research mainly focuses on **efficient training and inference frameworks/algorithms for LLM/DiT**. I have served as a reviewer for top-tier conferences including ICML, NeurIPS, ICLR, and CVPR.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**I'm always open to research discussions and collaborations. Feel free to contact me if you are interested.**
+
+## 📖 Education
+* **Ph.D. in Data Science**, Peking University, 2023 - 2028
+* **B.S. in Mathematics**, Wuhan University, 2019 - 2023
+
+## 🏆 Honors and Awards
+* **Excellent Research Award**, Peking University, 2025
+* **Outstanding Graduate**, Wuhan University, 2023
+* **National First Prize (1st in Hubei Province)**, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), 2021
+* **Meritorious Winner (M Prize)**, Mathematical Contest in Modeling (MCM/ICM), 2021
+* **Second Prize (Hubei Province)**, Chinese Mathematics Competitions (CMC), 2021
+* **Excellent Scholarship for Math Majors (Class I)**, Wuhan University, 2021
+* **First-class Scholarship**, Wuhan University, 2020
+* **Bronze Medal**, Chinese Mathematical Olympiad (CMO), 2018
+* **Gold Medal**, China Southeast Mathematical Olympiad (CSMO), 2017
