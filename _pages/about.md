@@ -23,7 +23,7 @@ latest_posts:
   enabled: false # 暂时关闭博客
 ---
 
-Hi! I am Yuxi Liu (刘禹希). I am currently a 4th-year Ph.D. student in Data Science at the Center for Machine Learning Research, Peking University (2023-2028), under the supervision of Prof. Kun Yuan. Prior to this, I obtained my B.S. degree in Mathematics from Wuhan University (2019-2023), ranking 2/32 in the Mathematics Base Class.
+Hi! I am Yuxi Liu (刘禹希). I am currently a 3th-year Ph.D. student in Data Science at the Center for Machine Learning Research, Peking University (2023-2028), under the supervision of Prof. Kun Yuan. Prior to this, I obtained my B.S. degree in Mathematics from Wuhan University (2019-2023), ranking 2/32 in the Mathematics Base Class.
 
 My research mainly focuses on **efficient training and inference frameworks/algorithms for LLM/DiT**. I have served as a reviewer for top-tier conferences including ICML, NeurIPS, ICLR, and CVPR.
 
